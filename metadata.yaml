@@ -1,0 +1,42 @@
+_repo: The-Good-News-of-God_7051
+creator:
+  author:
+    agent_name: Kingsley, Charles
+    aliases:
+    - Kingsley, C. (Charles)
+    - Kingley, Charles
+    birthdate: 1819
+    deathdate: 1875
+    gutenberg_agent_id: '344'
+    url: http://www.gutenberg.org/2009/agents/344
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
+description: As Queen Victoria's chaplain, Kingsley was keenly interested in the social
+  problems of his day. This 1859 collection offers thirty-nine theological musings
+  on a wide variety of subjects, including salvation, heroes and heroines, music,
+  Christ's boyhood, human nature, pain, prudence, and many others.
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7051'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Sermons, English -- 19th century'
+- !lcsh 'Church of England -- Sermons'
+tableOfContents: The beatific vision -- The glory of the cross -- The life of God
+  -- The Song of the Three Children -- The eternal goodness -- Worship -- God's inheritance
+  -- 'De profundis' -- The love of God its own reward -- The race of life -- Self-respect
+  and self-righteousness -- True repentance -- The letter and the Spirit -- Heroes
+  and heroines (Whitsunday) -- The measure of the cross -- The pure in heart -- Music
+  (Christmas Day) -- The Christ Child (Christmas Day) -- Christ's boyhood -- The locust-swarms
+  -- Salvation -- The beginning and end of wisdom -- Human nature (Septuagesima Sunday)
+  -- The charity of God -- The days of the week -- The heavenly father -- The good
+  shepherd -- Dark times -- God's creation -- True prudence -- The penitent thief
+  -- The temper of Christ -- The friend of sinners -- The sea of glass -- A God in
+  pain -- On the fall -- The worthy communicant -- Our deserts -- The loftiness of
+  God.
+title: The Good News of God
+url: http://www.gutenberg.org/ebooks/7051
