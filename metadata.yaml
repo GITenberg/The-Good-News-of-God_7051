@@ -1,4 +1,8 @@
 _repo: The-Good-News-of-God_7051
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kingsley, Charles
@@ -14,6 +18,8 @@ description: As Queen Victoria's chaplain, Kingsley was keenly interested in the
   problems of his day. This 1859 collection offers thirty-nine theological musings
   on a wide variety of subjects, including salvation, heroes and heroines, music,
   Christ's boyhood, human nature, pain, prudence, and many others.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7051#The-Good-News-of-God
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
